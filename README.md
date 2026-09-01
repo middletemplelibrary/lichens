@@ -1,5 +1,5 @@
 <param ve-config 
-       banner="https://github.com/user-attachments/assets/1c135536-328d-48de-b4a9-4b3005e99dcb"
+       banner="https://github.com/user-attachments/assets/8025e205-cac8-4a3d-bb5f-ecc856468025"
        layout="vertical">
 
 <h1>London, Law and Liberty: Middle Temple and the USA: 250 Years of Independence</h1>
