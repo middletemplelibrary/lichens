@@ -2,7 +2,7 @@
        banner="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c"
        layout="vertical">
 
-<h1>London, Law and Liberty: Middle Temple and the USA: 250 Years of Independence</h1>
+<h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
 Lichens are not single organisms but rather an alliance between an alga (which can photosynthesise) and a fungus (which provides the structure), showing how cooperation can bring about successful evolution (rather than the traditional Darwinian perspective of zero-sum competition). For this reason, in fact, lichens inspired the coining of the word symbiosis. 
@@ -17,11 +17,6 @@ In this exhibition we explore the presence of lichens in the Library’s Rare Bo
 <br><br>
 For more information about lichens in the UK, The British Lichen Society provides a full range of information and conservation work: https://britishlichensociety.org.uk/. 
 <br><br>
-<br><br>
-This year, we mark 250 years since the Declaration of American Independence on 4 July 1776. Members of the Middle Temple played a significant role in this historic event and in the years which surrounded it, but the Inn’s American connections predate this by many centuries and endure to this day.
-In this exhibition, we explore that long and often complex relationship, from the pivotal moment of Magna Carta to the intertwined histories of empire, education, revolution and the ongoing importance of the Library’s US collection.
-<br><br>
-<i>Please note: This exhibition includes material relating to colonialism, enslavement and violence against Indigenous communities. While outmoded terminology and images appear, these are presented to support critical engagement with the historical record and do not reflect contemporary usages, opinion or values.</i>
   <param ve-video id="YTHWT17bTLE"
        label="Video drone tour of the Middle Temple Library and Spanish Connections exhibition.">
 
