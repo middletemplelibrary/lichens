@@ -12,3 +12,6 @@ In this exhibition, we explore that long and often complex relationship, from th
   <param ve-video id="YTHWT17bTLE"
        label="Video drone tour of the Middle Temple Library and Spanish Connections exhibition.">
 
+
+##
+<img width="6912" height="3000" alt="Test" src="https://github.com/user-attachments/assets/33f062b6-6dbb-4c8b-9b4f-d3be6b37985e" />
