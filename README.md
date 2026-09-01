@@ -25,12 +25,11 @@ For more information about lichens in the UK, The British Lichen Society provide
 <img width="6912" height="3000" alt="Test (300 x 150 px) (6)" src="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c" />
 
 ## Encyclopædia metropolitana (London, 1845)
-The Round Church of the Knights Templar was an important site in the events and negotiations that led to Magna Carta. The Temple served as one of the London Headquarters of King John during the crisis of 1214-15, and it was here that he was confronted by the Barons and their demands at Epiphany 1215.
+This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form. 
 <br><br>
-Magna Carta went on to underpin the US Constitution and the Bill of Rights in its emphasis on due process and the protection of individual rights.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647"
-             attribution="Engraved by Sands, from a Drawing by J.P.Neale">
+      url="https://github.com/user-attachments/assets/0737fb75-b39c-404f-953d-41bc25e498c9"
+             attribution="A plate from the Encyclopaedia Metropolitana depicting lichens (link to: https://www.sciencephoto.com/media/775818/view)">
 
 
 ##
