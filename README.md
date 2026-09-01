@@ -24,7 +24,15 @@ For more information about lichens in the UK, The British Lichen Society provide
 ##
 <img width="6912" height="3000" alt="Test (300 x 150 px) (6)" src="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c" />
 
+## Encyclopædia metropolitana (London, 1845)
+The Round Church of the Knights Templar was an important site in the events and negotiations that led to Magna Carta. The Temple served as one of the London Headquarters of King John during the crisis of 1214-15, and it was here that he was confronted by the Barons and their demands at Epiphany 1215.
+<br><br>
+Magna Carta went on to underpin the US Constitution and the Bill of Rights in its emphasis on due process and the protection of individual rights.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647"
+             attribution="Engraved by Sands, from a Drawing by J.P.Neale">
 
 
-
+##
+<img width="537" height="800" alt="Lichens" src="https://github.com/user-attachments/assets/0737fb75-b39c-404f-953d-41bc25e498c9" />
 
