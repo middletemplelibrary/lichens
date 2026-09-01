@@ -1,9 +1,9 @@
 <param ve-config 
-       banner="[https://github.com/user-attachments/assets/3cb6979b-f022-4b0f-b07c-8537a652e2fe]"
+       banner=""
        layout="vertical">
 
 ##
-<img width="6912" height="3000" alt="Test" src="https://github.com/user-attachments/assets/3cb6979b-f022-4b0f-b07c-8537a652e2fe" />
+<img width="6912" height="3000" alt="Test" src="https://github.com/user-attachments/assets/8ddb23a8-b3b5-40a3-93ef-ec84d1fcffd3" />
 
 
 <h1>London, Law and Liberty: Middle Temple and the USA: 250 Years of Independence</h1>
