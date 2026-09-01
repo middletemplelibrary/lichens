@@ -14,7 +14,8 @@ In this exhibition, we explore that long and often complex relationship, from th
 
 
 ##
-<img width="6912" height="3000" alt="Test (300 x 150 px) (4)" src="https://github.com/user-attachments/assets/1c135536-328d-48de-b4a9-4b3005e99dcb" />
+<img width="6912" height="3000" alt="Test (300 x 150 px) (5)" src="https://github.com/user-attachments/assets/8025e205-cac8-4a3d-bb5f-ecc856468025" />
+
 
 
 
