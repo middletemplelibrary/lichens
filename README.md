@@ -15,7 +15,7 @@ The philosophical implications of these points can make us reconsider plant vers
 <br><br>
 In this exhibition we explore the presence of lichens in the Library’s Rare Book Collection, and in Archive materials, interspersed with Amanda’s artworks.  
 <br><br>
-For more information about lichens in the UK, The British Lichen Society provides a full range of information and conservation work: <a href=”https://britishlichensociety.org.uk”>[Click here to visit Example](https://britishlichensociety.org.uk)</a>
+For more information about lichens in the UK, The British Lichen Society provides a full range of information and conservation work: <a href=”https://britishlichensociety.org.uk”>[https://britishlichensociety.org.uk](https://britishlichensociety.org.uk)</a>
 <br><br>
   <param ve-video id="YTHWT17bTLE"
        label="Video drone tour of the Middle Temple Library and Spanish Connections exhibition.">
