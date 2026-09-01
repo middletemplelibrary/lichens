@@ -27,8 +27,11 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
       url="https://github.com/user-attachments/assets/f8e9c802-0e34-471e-b0ee-87e012248164"
              attribution="A plate from the Encyclopaedia Metropolitana depicting lichens <a href=”[https://www.sciencephoto.com/media/775818/view](https://www.sciencephoto.com/media/775818/view)”
 
+
+
 ##
-<img width="537" height="800" alt="avsr" src="https://github.com/user-attachments/assets/d969575c-b99f-4036-bf80-b33f9064d16b" />
+<img width="537" height="800" alt="avsr" src="https://github.com/user-attachments/assets/24863c9e-4e41-456b-aef7-960bc639ab25" />
+
 
 
 
