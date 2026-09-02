@@ -3,10 +3,7 @@
        layout="vertical">
 
 ##
-<img width="960" height="1460" alt="B" src="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0" />
-
-
-
+<img width="330" height="699" alt="Frobie" src="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -26,8 +23,7 @@ For more information about lichens in the UK, The British Lichen Society provide
 <br><br>
   <param ve-image
          url="https://github.com/user-attachments/assets/a15f91bc-19ee-4864-96a1-758aa36c03b1"
-                label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026"
-             license="©">
+                label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
              
 ## Encyclopædia metropolitana (London, 1845)
 This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form.
@@ -35,8 +31,7 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 [Source](https://www.sciencephoto.com/media/775818/view)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
-             label="A plate from the Encyclopaedia Metropolitana depicting lichens"
-                    license="©">
+             label="A plate from the Encyclopaedia Metropolitana depicting lichens ©">
 
 
 ## William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)
@@ -59,26 +54,24 @@ According to the British Lichen Society, lichens can “colonize places where th
 Lichens produce secondary substances known as lichen compounds. Many are waste products, but some also have other benefits to the lichen, including a bitter taste which may make the lichen unpalatable to grazing slugs and snails; protection against ultraviolet radiation; antibiotic properties.”
 <param ve-image 
       url="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c"
-             label="A portrait of Martin Frobisher (approximately 1535-1594)"
-             license="©">
+             label="A portrait of Martin Frobisher (approximately 1535-1594) ©">
              
 ## Pump Court Cotoneaster Trees
 The two elegant cotoneaster trees in Pump Court were planted in approximately 1951-1952. The buildings to the North were constructed after the fire of 1679; buildings to the south are post-war, part of the rebuilding that following extensive war time bombing. The hand pump near to the trees is now purely decorative. The original artisan well, from which Pump Court takes its name, still exists and lies beneath a paving slab marked with an arrow. Lichens are present on the trees in Pump Court.
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
-             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026"
-              license="©">
+             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026 ©">
 
 ## Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)
 Sir Martin Frobisher (1535-1594) was admitted to the Inn on 2 February 1592/3, most likely as an honorary member, which was very common during the early modern period. Little is known about Dionyse Settle, apart from the fact that he published the first account of Frobisher’s second voyage to the Arctic, which was first published in 1577 in English.
 <br><br>
 A French version, translated by N. Pithou, was published not long after, and this edition was published in Latin from that French translation. Lichens can grow as far north as the Arctic, but Frobisher’s account does not make any mention of them. The original version of Settle’s account has been described as “the first report printed in England of an English voyage of discovery”.
 <br><br>
-[Source](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
+[Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
-             label="Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island">
+      url="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c"
+             license="PDM 1.0">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
@@ -87,8 +80,7 @@ Drawing together classical resources in this manner was very common during the R
 <br><br>
 This might demonstrate reliance on textual sources rather than personal observation. For instance, common liverwort grows in soil, not rocky surfaces as du Pinet (drawing on Dioscorides) here attests. Indeed, Dioscorides’ descriptions are sometimes obscure and difficult to identify, causing much confusion over the centuries.
 [Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
-
 <param ve-image 
       url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
              label="Antoine Du Pinet, Historia plantarum, 1561, title page"
-              license="[PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/)">
+              license="PDM 1.0">
