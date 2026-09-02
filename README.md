@@ -4,7 +4,8 @@
        layout="vertical">
 
 ##
-<img width="960" height="1419" alt="A_Treatise_of_Fruit_Trees_Austen" src="https://github.com/user-attachments/assets/eb34717b-0a91-4a5e-89c1-4c20ccd6628a" />
+<img width="491" height="490" alt="Humours" src="https://github.com/user-attachments/assets/9de030d9-4e1f-49d8-aa8e-9fb609df57a6" />
+
 
 
 
@@ -147,3 +148,13 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
       url="https://github.com/user-attachments/assets/eb34717b-0a91-4a5e-89c1-4c20ccd6628a"
              label="Frontispiece of A Treatise on Fruit-trees (1653) by Ralph Austen"
               license="PD">
+
+<h1>Lichens for Health</h1>
+The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism. 
+Pliny the Elder (23 AD – 79 AD) also described how to use lichen to heal ailments, in particular to cure skin fissures and scabs. This may be linked to ancient beliefs that elements from nature could be used to cure ailments that shared certain appearances and properties: lichen on the surface of rocks and trees, for example, resembles fissures or scabs on the skin’s surface. 
+Early Western physiological theory focused on the four ‘humours’ (blood, phlegm, yellow bile, and black bile), with four corresponding temperaments (phlegmatic, choleric, sanguine and melancholy). Those corresponded with the four elements of earth, air, fire and water, the four seasons (spring, summer, autumn, winter), and the four ages of life (childhood, adolescence, maturity and old age). All these elements corresponded to the four categories of hold, cold, moist and dry. The diagram above illustrates the concept. 
+The variant mixtures affected one’s physical and mental state. According to the Encyclopedia Britannica, “The ideal person had the ideally proportioned mixture of the four; a predominance of one produced a person who was sanguine (Latin sanguis, “blood”), phlegmatic, choleric, or melancholic.” The ‘humoral’ theory lasted for centuries in Western medical practice.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9de030d9-4e1f-49d8-aa8e-9fb609df57a6"
+             label="A graphic depicting the humoral theory, courtesy of the Royal College of Physicians of Edinburgh">
