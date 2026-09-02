@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="3024" height="4032" alt="Lichen on cotoneater tree" src="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed" />
+<img width="960" height="1132" alt="a" src="https://github.com/user-attachments/assets/1a4a81b0-409b-49d6-bc2d-fc27c489dfc4" />
+
 
 
 
