@@ -90,5 +90,5 @@ This might demonstrate reliance on textual sources rather than personal observat
 
 <param ve-image 
       url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
-             label="Historia plantarum ... Quibus accessere simplicium medicamentorum - Upper cover"
-              license="PDM 1.0">
+             label="Antoine Du Pinet, Historia plantarum, 1561, title page"
+              license="[PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/)">
