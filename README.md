@@ -77,3 +77,15 @@ A French version, translated by N. Pithou, was published not long after, and thi
 <param ve-image 
       url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
              attribution="Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island">
+
+## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
+Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
+<br><br>
+Drawing together classical resources in this manner was very common during the Renaissance. Without modern understandings of taxonomy, people from ancient to early modern times grouped together various mosses and liverworts as well as true lichens (i.e. crusty or leafy growths on trees and rocks) under the moniker “lichen”. This was because the ancient Greek “λειχήν” meant “a thing that clings” and could refer to anything that looks spreading and crusty (including skin diseases, for example). This picture seems like an amalgam combining star-topped stalks like a common (or “umbrella”) liverwort but the leafy, crinkled lobes of a foliose lichen.
+<br><br>
+This might demonstrate reliance on textual sources rather than personal observation. For instance, common liverwort grows in soil, not rocky surfaces as du Pinet (drawing on Dioscorides) here attests. Indeed, Dioscorides’ descriptions are sometimes obscure and difficult to identify, causing much confusion over the centuries.
+[Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
+             attribution="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026"
+              license="©">
