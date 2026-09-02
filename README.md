@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="404" height="522" alt="William_Watson" src="https://github.com/user-attachments/assets/7674a903-edd4-4f4e-886d-71cbf64db12e" />
+<img width="83" height="78" alt="Amanda Cobbett" src="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b" />
+
 
 
 
@@ -31,6 +32,7 @@ For more information about lichens in the UK, The British Lichen Society provide
 This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form.
 <br><br>
 [Encyclopædia metropolitana (London, 1845)](https://www.sciencephoto.com/media/775818/view)
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
              label="A plate from the Encyclopaedia Metropolitana depicting lichens ©">
@@ -40,7 +42,6 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 This 1757 article appeared in Philosophical Transactions, the flagship publication of the Royal Society (founded 1660) and the world’s first and longest-running scientific journal. This passage offers insight into an earlier era of the scientific method where ancient quackery was being reevaluated in favour of more recognisably modern intellectual rigour. The article adopts the traditional view that nature’s ultimate purpose is to service the needs of humankind. It idealistically invokes knowledge for its own sake (even “the most abject and insignificant things”) and presages future discoveries of use to humanity. Nowadays, lichens are subject to research concerning pharmaceuticals, air-quality monitoring, agriculture, and even space biology.
 <br><br>
 [An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
-<br><br>
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/7674a903-edd4-4f4e-886d-71cbf64db12e"
@@ -55,6 +56,7 @@ Here at Middle Temple, we have found lichens growing at various locations in the
 According to the British Lichen Society, lichens can “colonize places where there are extremes of humidity, temperature and light, and they often occur in places where few other macroscopic living things can survive. Lichens absorb water from the atmosphere, but unlike plants they have no means of keeping water within the lichen during dry spells.
 <br><br>
 Lichens produce secondary substances known as lichen compounds. Many are waste products, but some also have other benefits to the lichen, including a bitter taste which may make the lichen unpalatable to grazing slugs and snails; protection against ultraviolet radiation; antibiotic properties.”
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c"
              label="A portrait of Martin Frobisher (approximately 1535-1594) ©">
@@ -72,6 +74,7 @@ Sir Martin Frobisher (1535-1594) was admitted to the Inn on 2 February 1592/3, m
 A French version, translated by N. Pithou, was published not long after, and this edition was published in Latin from that French translation. Lichens can grow as far north as the Arctic, but Frobisher’s account does not make any mention of them. The original version of Settle’s account has been described as “the first report printed in England of an English voyage of discovery”.
 <br><br>
 [Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c"
               label="Martin Frobisher by Cornelis Ketel (1577)"
@@ -84,8 +87,22 @@ Antoine du Pinet (approximately 1510-1584) was a compiler and translator of bota
 Drawing together classical resources in this manner was very common during the Renaissance. Without modern understandings of taxonomy, people from ancient to early modern times grouped together various mosses and liverworts as well as true lichens (i.e. crusty or leafy growths on trees and rocks) under the moniker “lichen”. This was because the ancient Greek “λειχήν” meant “a thing that clings” and could refer to anything that looks spreading and crusty (including skin diseases, for example). This picture seems like an amalgam combining star-topped stalks like a common (or “umbrella”) liverwort but the leafy, crinkled lobes of a foliose lichen.
 <br><br>
 This might demonstrate reliance on textual sources rather than personal observation. For instance, common liverwort grows in soil, not rocky surfaces as du Pinet (drawing on Dioscorides) here attests. Indeed, Dioscorides’ descriptions are sometimes obscure and difficult to identify, causing much confusion over the centuries.
+<br><br>
 [Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
              label="Antoine Du Pinet, Historia plantarum, 1561, title page"
               license="PD">
+
+<h1>Amanda Cobbett</h1>
+Amanda Cobbett is an award-winning textile artist whose works champion the small and often overlooked treasures of the natural world, highlighting their place within our delicate ecosystem.
+<br><br>
+Inspired by the forest paths of the Surrey Hills, Amanda creates detailed sculptures of fungi, mosses, lichens and other natural forms using machine embroidery, wire and papier-mâché. Her painstaking “slow textile” process transforms fleeting encounters with nature into beautifully manufactured objects.
+<br><br>
+In this exhibition, Amanda’s embroidered lichens sit alongside books and archival material from the Inn’s collections. Together they invite us to look more closely at organisms that are easily overlooked, while considering the different ways humans have observed, classified and valued the natural world.
+<br><br>
+To learn more about Amanda and see her work, please visit [www.amandacobbett.com](www.amandacobbett.com).
+<param ve-image 
+      url="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b"
+             label="A photograph of the artist Amanda Cobbett ©">
