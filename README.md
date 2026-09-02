@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="960" height="1132" alt="a" src="https://github.com/user-attachments/assets/1a4a81b0-409b-49d6-bc2d-fc27c489dfc4" />
+<img width="960" height="1460" alt="B" src="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0" />
+
 
 
 
@@ -25,7 +26,7 @@ For more information about lichens in the UK, The British Lichen Society provide
 <br><br>
   <param ve-image
          url="https://github.com/user-attachments/assets/a15f91bc-19ee-4864-96a1-758aa36c03b1"
-                attribution="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026"
+                label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026"
              license="©">
              
 ## Encyclopædia metropolitana (London, 1845)
@@ -34,7 +35,7 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 [Source](https://www.sciencephoto.com/media/775818/view)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
-             attribution="A plate from the Encyclopaedia Metropolitana depicting lichens"
+             label="A plate from the Encyclopaedia Metropolitana depicting lichens"
                     license="©">
 
 
@@ -58,7 +59,7 @@ According to the British Lichen Society, lichens can “colonize places where th
 Lichens produce secondary substances known as lichen compounds. Many are waste products, but some also have other benefits to the lichen, including a bitter taste which may make the lichen unpalatable to grazing slugs and snails; protection against ultraviolet radiation; antibiotic properties.”
 <param ve-image 
       url="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c"
-             attribution="A portrait of Martin Frobisher (approximately 1535-1594)"
+             label="A portrait of Martin Frobisher (approximately 1535-1594)"
              license="©">
              
 ## Pump Court Cotoneaster Trees
@@ -66,7 +67,7 @@ The two elegant cotoneaster trees in Pump Court were planted in approximately 19
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
-             attribution="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026"
+             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026"
               license="©">
 
 ## Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)
@@ -77,7 +78,7 @@ A French version, translated by N. Pithou, was published not long after, and thi
 [Source](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
-             attribution="Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island">
+             label="Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
@@ -86,7 +87,8 @@ Drawing together classical resources in this manner was very common during the R
 <br><br>
 This might demonstrate reliance on textual sources rather than personal observation. For instance, common liverwort grows in soil, not rocky surfaces as du Pinet (drawing on Dioscorides) here attests. Indeed, Dioscorides’ descriptions are sometimes obscure and difficult to identify, causing much confusion over the centuries.
 [Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
+
 <param ve-image 
-      url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
-             attribution="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026"
-              license="©">
+      url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
+             label="Historia plantarum ... Quibus accessere simplicium medicamentorum - Upper cover"
+              license="PDM 1.0">
