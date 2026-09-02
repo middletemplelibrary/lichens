@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="83" height="78" alt="Amanda Cobbett" src="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b" />
+<img width="687" height="635" alt="ARTIST" src="https://github.com/user-attachments/assets/53109d53-3c31-4688-b78e-283427ea5098" />
+
 
 
 
@@ -104,6 +105,6 @@ In this exhibition, Amanda’s embroidered lichens sit alongside books and archi
 <br><br>
 To learn more about Amanda and see her work, please visit [www.amandacobbett.com](https://www.amandacobbett.com/)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b"
+      url="https://github.com/user-attachments/assets/53109d53-3c31-4688-b78e-283427ea5098"
              label="A photograph of the artist Amanda Cobbett ©">
 
