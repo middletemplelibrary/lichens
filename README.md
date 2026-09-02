@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="3072" height="4096" alt="Pump Court" src="https://github.com/user-attachments/assets/a39d55dd-44c2-448c-9fea-2578e19f4e34" />
+<img width="404" height="522" alt="William_Watson" src="https://github.com/user-attachments/assets/7674a903-edd4-4f4e-886d-71cbf64db12e" />
+
 
 
 
@@ -29,7 +30,7 @@ For more information about lichens in the UK, The British Lichen Society provide
 ## Encyclopædia metropolitana (London, 1845)
 This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form.
 <br><br>
-[Source](https://www.sciencephoto.com/media/775818/view)
+[Encyclopædia metropolitana (London, 1845)](https://www.sciencephoto.com/media/775818/view)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
              label="A plate from the Encyclopaedia Metropolitana depicting lichens ©">
@@ -38,12 +39,13 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 ## William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)
 This 1757 article appeared in Philosophical Transactions, the flagship publication of the Royal Society (founded 1660) and the world’s first and longest-running scientific journal. This passage offers insight into an earlier era of the scientific method where ancient quackery was being reevaluated in favour of more recognisably modern intellectual rigour. The article adopts the traditional view that nature’s ultimate purpose is to service the needs of humankind. It idealistically invokes knowledge for its own sake (even “the most abject and insignificant things”) and presages future discoveries of use to humanity. Nowadays, lichens are subject to research concerning pharmaceuticals, air-quality monitoring, agriculture, and even space biology.
 <br><br>
-[Source](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
+[An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
 <br><br>
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/7674a903-edd4-4f4e-886d-71cbf64db12e"
+             label="William Watson"
+             license="PD">
 
 <h1>Lichens</h1>
 Lichens grow incredibly slowly and can be centuries old. They can live in exceptionally inhospitable environments - some lichens in the Arctic might be the oldest continuously living organisms on Earth.
