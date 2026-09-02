@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="555" height="800" alt="Sylva sylvarum" src="https://github.com/user-attachments/assets/3d49b10d-7cd8-4367-be40-24d06a1fbab8" />
+<img width="4097" height="5097" alt="Francis Bacon" src="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e" />
+
 
 
 
@@ -116,10 +117,6 @@ As the eighteenth-century Enlightenment proceeded, apocryphal information was in
 <br><br>
 Focusing on the unique and intriguing case of lichens, the books and images displayed in this exhibition reveal changing ideas about what it means to study nature and how people across the ages have perceived our relationship with it. They encourage us, like all true naturalists, to pay deeper consideration to and appreciation for all life forms, not least those that can hide away unnoticed.
 <br><br>
-<param ve-image 
-      url="https://github.com/user-attachments/assets/22e56009-fc93-4d5d-8deb-1981a090593e"
-             label="Sylva Sylvarum: or a naturall historie (London, 1627) by Francis Bacon"
-             attribution="Andrew Montgomery">
 
 ## Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)
 Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being an accomplished statesman, Bacon was a naturalist, but his Sylva sylvarum was published posthumously. It is a wide-ranging collection of extracts on natural history from books and manuscripts from other authors, as well as Bacon’s own scientific experiments and observations.
@@ -129,3 +126,12 @@ Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being
 <param ve-image 
       url="https://github.com/user-attachments/assets/3d49b10d-7cd8-4367-be40-24d06a1fbab8"
              label="Title page of Bacon’s Sylva Sylvarum, 1627 ©">
+
+## Memoriæ honoratissimi domini Francisci, Baronis de Verulamio, Vice-Comitis Sancti Albani sacrum (London, 1626)
+This is a memorial volume that was published after Bacon’s death in 1625. It is open at the poem written by Robert Ashley (1565-1641), the founder of Middle Temple Library. Each poem celebrates different aspects of Bacon’s life, including his interest in natural history. In this poem, Ashley has made an oblique reference to the rivalry between Sir Edward Coke (1552-1634) and Bacon.
+
+[Portrait of Sir Francis Bacon (1561-1626)](https://www.sciencephoto.com/media/141490/view)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e"
+             label="Portrait of Sir Francis Bacon (1561-1626) ©"
+             attribute=[URL](https://www.sciencephoto.com/media/141490/view)>
