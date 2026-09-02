@@ -104,7 +104,7 @@ In this exhibition, Amanda’s embroidered lichens sit alongside books and archi
 <br><br>
 To learn more about Amanda and see her work, please visit 
 <br></br>
-[Amanda](www.amandacobbett.com)
+[www.amandacobbett.com](https://www.amandacobbett.com/)
 <param ve-image 
       url="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b"
              label="A photograph of the artist Amanda Cobbett ©">
