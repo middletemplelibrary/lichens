@@ -4,7 +4,7 @@
        layout="vertical">
 
 ##
-<img width="255" height="432" alt="Du_Laurens_(détail)" src="https://github.com/user-attachments/assets/995b0da3-4660-46d1-ad11-976e6285d3a5" />
+
 
 
 
