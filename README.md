@@ -29,7 +29,7 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
-             attribution="A plate from the Encyclopaedia Metropolitana depicting lichens"
+             attribution="A plate from the Encyclopaedia Metropolitana depicting lichens">
 
 
 
