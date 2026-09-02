@@ -73,7 +73,7 @@ A French version, translated by N. Pithou, was published not long after, and thi
       url="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c"
               label="Martin Frobisher by Cornelis Ketel (1577)"
        source="https://commons.wikimedia.org/wiki/File:Martin_Frobisher_by_Cornelis_Ketel_(1577).png"
-             license="PDM 1.0">
+             license="PD">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
