@@ -71,6 +71,8 @@ A French version, translated by N. Pithou, was published not long after, and thi
 [Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c"
+              label="Martin Frobisher by Cornelis Ketel (1577)"
+       source="https://commons.wikimedia.org/wiki/File:Martin_Frobisher_by_Cornelis_Ketel_(1577).png"
              license="PDM 1.0">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
