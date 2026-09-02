@@ -3,10 +3,7 @@
        layout="vertical">
 
 ##
-<img width="687" height="635" alt="ARTIST" src="https://github.com/user-attachments/assets/53109d53-3c31-4688-b78e-283427ea5098" />
-
-
-
+<img width="555" height="800" alt="Sylva sylvarum" src="https://github.com/user-attachments/assets/3d49b10d-7cd8-4367-be40-24d06a1fbab8" />
 
 
 
@@ -104,7 +101,31 @@ Inspired by the forest paths of the Surrey Hills, Amanda creates detailed sculpt
 In this exhibition, Amanda’s embroidered lichens sit alongside books and archival material from the Inn’s collections. Together they invite us to look more closely at organisms that are easily overlooked, while considering the different ways humans have observed, classified and valued the natural world.
 <br><br>
 To learn more about Amanda and see her work, please visit [www.amandacobbett.com](https://www.amandacobbett.com/)
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/53109d53-3c31-4688-b78e-283427ea5098"
-             label="A photograph of the artist Amanda Cobbett ©">
+             label="A photograph of the artist Amanda Cobbett ©"
+             attribution="Andrew Montgomery">
 
+<h1>Humanity and the Natural World</h1>
+For millennia, using description and classification, people have sought to understand the natural world with its countless flora and fauna.
+<br><br>
+Naturalists have always relied in large part on the inherited knowledge of their forebears. This was often an amalgam of observations and accounts, some of which endured as authorities for hundreds if not thousands of years. Of course, mixed in with the accumulated facts was a mass of spurious hearsay – a habit that continued well beyond the Scientific Revolution of the sixteenth and seventeenth centuries. As a result, many of the descriptions and images handed down could create confusion rather than diminish it.
+<br><br>
+As the eighteenth-century Enlightenment proceeded, apocryphal information was increasingly held to account under the glare of modern techniques of systematic scientific enquiry. Nevertheless, the era was fundamentally indebted to ancient approaches to organising knowledge of the natural world, and this remains true to this day.
+<br><br>
+Focusing on the unique and intriguing case of lichens, the books and images displayed in this exhibition reveal changing ideas about what it means to study nature and how people across the ages have perceived our relationship with it. They encourage us, like all true naturalists, to pay deeper consideration to and appreciation for all life forms, not least those that can hide away unnoticed.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/22e56009-fc93-4d5d-8deb-1981a090593e"
+             label="Sylva Sylvarum: or a naturall historie (London, 1627) by Francis Bacon"
+             attribution="Andrew Montgomery">
+
+## Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)
+Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being an accomplished statesman, Bacon was a naturalist, but his Sylva sylvarum was published posthumously. It is a wide-ranging collection of extracts on natural history from books and manuscripts from other authors, as well as Bacon’s own scientific experiments and observations.
+<br><br>
+[Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)](https://www.sciencephoto.com/media/92721/view)
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/3d49b10d-7cd8-4367-be40-24d06a1fbab8"
+             label="Title page of Bacon’s Sylva Sylvarum, 1627 ©">
