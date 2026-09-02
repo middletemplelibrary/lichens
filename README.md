@@ -4,9 +4,7 @@
        layout="vertical">
 
 ##
-<img width="491" height="490" alt="Humours" src="https://github.com/user-attachments/assets/9de030d9-4e1f-49d8-aa8e-9fb609df57a6" />
-
-
+<img width="255" height="432" alt="Du_Laurens_(détail)" src="https://github.com/user-attachments/assets/995b0da3-4660-46d1-ad11-976e6285d3a5" />
 
 
 
@@ -150,11 +148,33 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
               license="PD">
 
 <h1>Lichens for Health</h1>
-The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism. 
-Pliny the Elder (23 AD – 79 AD) also described how to use lichen to heal ailments, in particular to cure skin fissures and scabs. This may be linked to ancient beliefs that elements from nature could be used to cure ailments that shared certain appearances and properties: lichen on the surface of rocks and trees, for example, resembles fissures or scabs on the skin’s surface. 
-Early Western physiological theory focused on the four ‘humours’ (blood, phlegm, yellow bile, and black bile), with four corresponding temperaments (phlegmatic, choleric, sanguine and melancholy). Those corresponded with the four elements of earth, air, fire and water, the four seasons (spring, summer, autumn, winter), and the four ages of life (childhood, adolescence, maturity and old age). All these elements corresponded to the four categories of hold, cold, moist and dry. The diagram above illustrates the concept. 
+The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism.
+<br><br>
+Pliny the Elder (23 AD – 79 AD) also described how to use lichen to heal ailments, in particular to cure skin fissures and scabs. This may be linked to ancient beliefs that elements from nature could be used to cure ailments that shared certain appearances and properties: lichen on the surface of rocks and trees, for example, resembles fissures or scabs on the skin’s surface.
+<br><br>
+Early Western physiological theory focused on the four ‘humours’ (blood, phlegm, yellow bile, and black bile), with four corresponding temperaments (phlegmatic, choleric, sanguine and melancholy). Those corresponded with the four elements of earth, air, fire and water, the four seasons (spring, summer, autumn, winter), and the four ages of life (childhood, adolescence, maturity and old age). All these elements corresponded to the four categories of hold, cold, moist and dry. The diagram above illustrates the concept.
+<br><br>
 The variant mixtures affected one’s physical and mental state. According to the Encyclopedia Britannica, “The ideal person had the ideally proportioned mixture of the four; a predominance of one produced a person who was sanguine (Latin sanguis, “blood”), phlegmatic, choleric, or melancholic.” The ‘humoral’ theory lasted for centuries in Western medical practice.
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9de030d9-4e1f-49d8-aa8e-9fb609df57a6"
              label="A graphic depicting the humoral theory, courtesy of the Royal College of Physicians of Edinburgh">
+
+## André du Laurens, De morbis melancholicis, & eorum cura tractatus (London, 1599)
+André du Laurens (1558-1609) was French physician to Henri IV. This work is divided into four discourses: vision, melancholy, catarrhs, and gerontology, and as such is an early work on the science of old age. It is also notable for its discussion of mental illness. In the humoural system, ‘Melancholy’ was believed to be caused by an excess of black bile.
+<br><br>
+Although du Laurens does not discuss lichens in this book, it is nonetheless an example of the application of the humoural theory so prevalent at the time: “quatuor sunt humores in corporibus” [there are four humours in bodies]. 
+<br><br>
+[De morbis melancholicis, & eorum cura tractatus, digitised version from Marsh’s Library, Dublin](https://archive.org/details/bim_early-english-books-1475-1640_de-morbis-melancholicis-_du-laurnes-andr_1599)
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/995b0da3-4660-46d1-ad11-976e6285d3a5"
+             label="André du Laurens"
+                           license="PD">
+
+## Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)
+Jean Vigier (dates unknown) was a French physician who published a few medical tomes during his lifetime. In this work he discusses the use of various natural remedies for catarrh, including the use of agaricus, a type of fungus.
+<br><br>
+Although agaricus is not a lichen, the two have a symbiotic relationship: “lichen is a stable symbiotic association between a fungus and algae and/or cyanobacteria”, and many “unrelated and very different fungi form lichens, including mushroom-forming fungi, and especially cup-fungi.”
+<br><br>
+[Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
