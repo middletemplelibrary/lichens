@@ -134,4 +134,4 @@ This is a memorial volume that was published after Bacon’s death in 1625. It i
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e"
-             label="Portrait of Sir Francis Bacon (1561-1626) ©"
+             label="Portrait of Sir Francis Bacon (1561-1626) ©">
