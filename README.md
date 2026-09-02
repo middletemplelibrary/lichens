@@ -2,10 +2,6 @@
        banner="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c"
        layout="vertical">
 
-##
-<img width="537" height="800" alt="Image Lichen" src="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712" />
-
-
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
@@ -30,13 +26,8 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 [A plate from the Encyclopaedia Metropolitana depicting lichens](https://www.sciencephoto.com/media/775818/view)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
-             attribution="A plate from the Encyclopaedia Metropolitana depicting lichens">
+             attribution="[A plate from the Encyclopaedia Metropolitana depicting lichens](https://www.sciencephoto.com/media/775818/view)">
 
-
-
-
-##
-<img width="537" height="800" alt="Image Lichen" src="https://github.com/user-attachments/assets/3bbdd2dc-d0c2-4d04-b382-faa907166835" />
 
 
 
