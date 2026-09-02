@@ -129,9 +129,9 @@ Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being
 
 ## Memoriæ honoratissimi domini Francisci, Baronis de Verulamio, Vice-Comitis Sancti Albani sacrum (London, 1626)
 This is a memorial volume that was published after Bacon’s death in 1625. It is open at the poem written by Robert Ashley (1565-1641), the founder of Middle Temple Library. Each poem celebrates different aspects of Bacon’s life, including his interest in natural history. In this poem, Ashley has made an oblique reference to the rivalry between Sir Edward Coke (1552-1634) and Bacon.
-
+<br><br>
 [Portrait of Sir Francis Bacon (1561-1626)](https://www.sciencephoto.com/media/141490/view)
+<br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e"
              label="Portrait of Sir Francis Bacon (1561-1626) ©"
-             attribute=[URL](https://www.sciencephoto.com/media/141490/view)>
