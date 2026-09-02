@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="330" height="699" alt="Frobie" src="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c" />
+<img width="3072" height="4096" alt="Pump Court" src="https://github.com/user-attachments/assets/a39d55dd-44c2-448c-9fea-2578e19f4e34" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -60,7 +61,7 @@ Lichens produce secondary substances known as lichen compounds. Many are waste p
 The two elegant cotoneaster trees in Pump Court were planted in approximately 1951-1952. The buildings to the North were constructed after the fire of 1679; buildings to the south are post-war, part of the rebuilding that following extensive war time bombing. The hand pump near to the trees is now purely decorative. The original artisan well, from which Pump Court takes its name, still exists and lies beneath a paving slab marked with an arrow. Lichens are present on the trees in Pump Court.
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/2e460359-a1b2-4da9-b5e2-4de0bdeee1ed"
+      url="https://github.com/user-attachments/assets/a39d55dd-44c2-448c-9fea-2578e19f4e34"
              label="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026 ©">
 
 ## Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)
@@ -85,4 +86,4 @@ This might demonstrate reliance on textual sources rather than personal observat
 <param ve-image 
       url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
              label="Antoine Du Pinet, Historia plantarum, 1561, title page"
-              license="PDM 1.0">
+              license="PD">
