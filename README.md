@@ -1,9 +1,11 @@
+<img width="960" height="1419" alt="A_Treatise_of_Fruit_Trees_Austen" src="https://github.com/user-attachments/assets/d2359a7d-e4cf-4231-b19c-a4fa0b55a8f9" />
 <param ve-config 
        banner="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c"
        layout="vertical">
 
 ##
-<img width="4097" height="5097" alt="Francis Bacon" src="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e" />
+<img width="960" height="1419" alt="A_Treatise_of_Fruit_Trees_Austen" src="https://github.com/user-attachments/assets/eb34717b-0a91-4a5e-89c1-4c20ccd6628a" />
+
 
 
 
@@ -135,3 +137,13 @@ This is a memorial volume that was published after Bacon’s death in 1625. It i
 <param ve-image 
       url="https://github.com/user-attachments/assets/fde25575-995e-49e2-a46a-9082161f7e9e"
              label="Portrait of Sir Francis Bacon (1561-1626) ©">
+
+## Ralph Austen, Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers (Oxford, 1658)
+The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as a “horticulturist and religious radical” from Staffordshire who lived in Oxford from 1646 until his death in 1676. He was a self-taught horticulturist who in this work challenged Francis Bacon’s theories on the cultivation of trees, fruits and flowers. Austen was of one of Samuel Hartlib’s (circa 1600-1662) circle. Trees are of course important hosts for lichens, with different types of trees being favoured by different lichens.
+<br><br>
+[Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers, digitised version from Internet Archive](https://archive.org/details/bim_early-english-books-1641-1700_observations-upon-some-p_austen-ralph_1681/page/n1/mode/2up)
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/eb34717b-0a91-4a5e-89c1-4c20ccd6628a"
+             label="Frontispiece of A Treatise on Fruit-trees (1653) by Ralph Austen"
+              license="PD">
