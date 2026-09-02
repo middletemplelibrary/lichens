@@ -102,9 +102,7 @@ Inspired by the forest paths of the Surrey Hills, Amanda creates detailed sculpt
 <br><br>
 In this exhibition, Amanda’s embroidered lichens sit alongside books and archival material from the Inn’s collections. Together they invite us to look more closely at organisms that are easily overlooked, while considering the different ways humans have observed, classified and valued the natural world.
 <br><br>
-To learn more about Amanda and see her work, please visit 
-<br></br>
-[www.amandacobbett.com](https://www.amandacobbett.com/)
+To learn more about Amanda and see her work, please visit [www.amandacobbett.com](https://www.amandacobbett.com/)
 <param ve-image 
       url="https://github.com/user-attachments/assets/d54d5f17-0cc9-4f7c-9772-61ae7797d97b"
              label="A photograph of the artist Amanda Cobbett ©">
