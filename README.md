@@ -3,7 +3,8 @@
        layout="vertical">
 
 ##
-<img width="4000" height="3000" alt="Macro lichen" src="https://github.com/user-attachments/assets/a15f91bc-19ee-4864-96a1-758aa36c03b1" />
+<img width="604" height="800" alt="Frobishe" src="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c" />
+
 
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
@@ -33,7 +34,25 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
              attribution="A plate from the Encyclopaedia Metropolitana depicting lichens">
 
 
-## 
+## William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)
+This 1757 article appeared in Philosophical Transactions, the flagship publication of the Royal Society (founded 1660) and the world’s first and longest-running scientific journal. This passage offers insight into an earlier era of the scientific method where ancient quackery was being reevaluated in favour of more recognisably modern intellectual rigour. The article adopts the traditional view that nature’s ultimate purpose is to service the needs of humankind. It idealistically invokes knowledge for its own sake (even “the most abject and insignificant things”) and presages future discoveries of use to humanity. Nowadays, lichens are subject to research concerning pharmaceuticals, air-quality monitoring, agriculture, and even space biology.
+<br><br>
+[William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada"
+             attribution="Zbigniew Tomasz Kotkiewicz">
 
-
-
+<h1>Lichens</h1>
+Lichens grow incredibly slowly and can be centuries old. They can live in exceptionally inhospitable environments - some lichens in the Arctic might be the oldest continuously living organisms on Earth.
+<br><br>
+Here at Middle Temple, we have found lichens growing at various locations in the gardens and courts around the Inn, including the courtyards around Temple Church.
+<br><br>
+According to the British Lichen Society, lichens can “colonize places where there are extremes of humidity, temperature and light, and they often occur in places where few other macroscopic living things can survive. Lichens absorb water from the atmosphere, but unlike plants they have no means of keeping water within the lichen during dry spells.
+<br><br>
+Lichens produce secondary substances known as lichen compounds. Many are waste products, but some also have other benefits to the lichen, including a bitter taste which may make the lichen unpalatable to grazing slugs and snails; protection against ultraviolet radiation; antibiotic properties.”
+<param ve-image 
+      url="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c"
+             attribution="A portrait of Martin Frobisher (approximately 1535-1594)">
+             
+## Pump Court Cotoneaster Trees
+The two elegant cotoneaster trees in Pump Court were planted in approximately 1951-1952. The buildings to the North were constructed after the fire of 1679; buildings to the south are post-war, part of the rebuilding that following extensive war time bombing. The hand pump near to the trees is now purely decorative. The original artisan well, from which Pump Court takes its name, still exists and lies beneath a paving slab marked with an arrow. Lichens are present on the trees in Pump Court.
