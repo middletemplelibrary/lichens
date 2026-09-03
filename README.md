@@ -231,5 +231,5 @@ Nowadays a great deal of human effort is put into preserving, shaping, and prote
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/388706af-63af-4c2b-b787-f4a87ced3fdb"
-             label="Middle Temple Lane and Fountain Court, 1932"
-              attribution="Middle Temple Archive MT/19/ILL/E/E8/10 ©">
+             label="Middle Temple Lane and Fountain Court, 1932 ©"
+              attribution="Middle Temple Archive MT/19/ILL/E/E8/10">
