@@ -1,7 +1,11 @@
 <param ve-config 
-       banner="https://github.com/user-attachments/assets/5b4150f5-dd05-4369-8c40-b65bdba8862b"
+       banner="https://github.com/user-attachments/assets/8b9c6b59-350e-499d-8b96-a162afa0a6e9"
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
+
+##
+<img width="6912" height="3000" alt="Test (300 x 150 px) (1)" src="https://github.com/user-attachments/assets/8b9c6b59-350e-499d-8b96-a162afa0a6e9" />
+
 
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
