@@ -4,6 +4,7 @@
        layout="vertical">
 
 ##
+<img width="573" height="800" alt="Dioscorides" src="https://github.com/user-attachments/assets/ba285193-8282-4ad6-aa19-a43c0493431c" />
 
 
 
@@ -178,3 +179,31 @@ Jean Vigier (dates unknown) was a French physician who published a few medical t
 Although agaricus is not a lichen, the two have a symbiotic relationship: “lichen is a stable symbiotic association between a fungus and algae and/or cyanobacteria”, and many “unrelated and very different fungi form lichens, including mushroom-forming fungi, and especially cup-fungi.”
 <br><br>
 [Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
+
+## Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)
+Wilhelm Adolf Scribonius (1550-1600) was a philosopher, physician and teacher. This is the first English translation of his 1585 textbook entitled Rerum naturalium doctrina methodica. The book concerns the development of the natural sciences and contemplates the state of knowledge of the time.
+<br><br>
+Scribonius adhered to the approach of the French humanist Peter Ramus (1515-1572). Scribonius wrote several works applying “Ramist” logic (rather than the traditional “scholastic” logic Ramus was reacting against) to natural science. This section concerns the properties and medicinal qualities of plants, including ‘Fungus Agaricus’ which grows on larch trees and was used in early modern medicine to ‘purge phlegm’, i.e. to expel an excess of the phlegmatic humour which was believed to cause respiratory and other ailments.
+<br><br>
+This fungus has been revered as a medicine since ancient times, including by the ancient physician Dioscorides whose pharmacopoeias and medical texts greatly informed the medieval medical tradition. Even to this day it is subject to scientific and clinical research.
+<br><br>
+[Caption; Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
+
+## Dioscorides Pedanius of Anazarbos (translated by Jean Antoine Sarrasin), Opera quæ extant omnia (Frankfurt, 1598)
+Dioscorides (approximately 40-90 AD) was a Greek pharmacologist whose Περὶ ὕλης ἰατρικῆς (“On Medicinal Materials”) was the go-to pharmacology handbook in Europe and the Middle East for over 1500 years. It is the predecessor of all modern pharmacopoeias and was still referred to well into the eighteenth century.
+<br><br>
+The translation of Sarrasin (1547-1598) was widely reprinted during the seventeenth century. Some of the suggested remedies are genuinely effective, others not so much. Some are actively dangerous. For example, in this passage on burn treatments, lead compounds are proposed. A suggested treatment for wounds is to use “lichen growing upon stones, crushed and applied”. Modern chemistry has in fact discovered that many lichens produce compounds such as usnic acid, atranorin and other phenolics which have genuine antimicrobial qualities.
+<br><br>
+Nevertheless, cuts would be better served by modern antiseptics than sprinkled rock lichen.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/ba285193-8282-4ad6-aa19-a43c0493431c"
+             label="Portrait of Dioscorides Pedanius of Anazarbos ©">
+
+## Pliny the Elder, Historia mundi naturalis C. Plinii Secundi hoc est: amplissimum, lucidissimum, perspicacissimumque, nec non plane mirandum totius vniversi, rerumque naturalium speculum (Frankfurt, 1582)
+Pliny wrote the only encyclopaedia to survive from ancient Rome. It was written approximately 77-79 CE. He was a naval and army commander who avidly pursued naturalist and scientific interests during his spare time. Historia Mundi Naturalis, as the title suggests, covers a huge array of subjects and uses hundreds of ancient authors for its source materials.
+<br><br>
+It was a principal scientific reference work well into early modernity and is an ancestor of editorial models still with us today. These pages are an example of Pliny’s approach, combining firsthand observations with second or third hand accounts and even out-and-out myths. Unsurprisingly, many of the cures are spurious. Here, among a list of other medicines, rock lichens as well as “the herb called lichen... [which] grows on rocky ground” (possibly liverwort) are prescribed for a skin disease, itself called “lichen”.
+<br><br>
+This malady was probably an amalgam of modern skin conditions like impetigo, ringworm and eczema. According to ancient understanding, likeness in appearance could indicate the treatment’s efficacy; hence this dubious remedy. Pliny famously died whilst trying to observe the eruption of Mount Vesuvius in 79 CE.
+<br><br>
