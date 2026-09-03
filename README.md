@@ -4,7 +4,8 @@
        layout="vertical">
 
 ##
-<img width="400" height="696" alt="Pliny" src="https://github.com/user-attachments/assets/c4ff9436-c3c6-484c-b684-86c571ec039b" />
+<img width="1244" height="732" alt="Fountain Court" src="https://github.com/user-attachments/assets/388706af-63af-4c2b-b787-f4a87ced3fdb" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -220,3 +221,6 @@ As evidenced here, Paschetti relied heavily on other authorities for his text, i
 As shown in the books on display, some types of tree fungus have long been prized as medicines. Certain fungi can damage their host, requiring stringent human intervention. Sometimes it is both: the Ganoderma fungus referred to by Dr P.G. Biddle’s report as threatening a laburnum in Fountain Court has also been used as a traditional medicine across Asia for centuries.
 Nowadays a great deal of human effort is put into preserving, shaping, and protecting trees (as well as their mass felling of course). Opinions over time have diverged sharply as to what this means in practice. In 1998, Dr. Biddle was commissioned to review a query from the Inn about whether the mulberry trees in Fountain Court were a nuisance to be removed. This was sharply debated in the late 1990s ahead of the Inn’s Millenium Project. During this project, Fountain Court was resurfaced and other changes were made to the area. Some felt the mulberry trees were an “oppressive” and ungainly obstruction, while others (who won out in the end) fondly appreciated their crooked charms. 
 <br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/388706af-63af-4c2b-b787-f4a87ced3fdb"
+             label="Middle Temple Lane and Fountain Court, 1932. Middle Temple Archive MT/19/ILL/E/E8/10 ©">
