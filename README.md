@@ -20,7 +20,8 @@ For more information about lichens in the UK, The British Lichen Society provide
 <br><br>
   <param ve-image
          url="https://github.com/user-attachments/assets/a15f91bc-19ee-4864-96a1-758aa36c03b1"
-                label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
+                label="Photograph of lichens found on a tree in the Middle Temple Estate ©"
+                attribution="Kate Jenrick, April 2026">
              
 ## Encyclopædia metropolitana (London, 1845)
 This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form.
@@ -39,7 +40,7 @@ This 1757 article appeared in Philosophical Transactions, the flagship publicati
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 <h1>Lichens</h1>
 Lichens grow incredibly slowly and can be centuries old. They can live in exceptionally inhospitable environments - some lichens in the Arctic might be the oldest continuously living organisms on Earth.
@@ -60,7 +61,8 @@ The two elegant cotoneaster trees in Pump Court were planted in approximately 19
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/a39d55dd-44c2-448c-9fea-2578e19f4e34"
-             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple, June 2026 ©">
+             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple"
+              attribution="Renae Satterley, June 2026 ©">
 
 ## Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)
 Sir Martin Frobisher (1535-1594) was admitted to the Inn on 2 February 1592/3, most likely as an honorary member, which was very common during the early modern period. Little is known about Dionyse Settle, apart from the fact that he published the first account of Frobisher’s second voyage to the Arctic, which was first published in 1577 in English.
@@ -71,7 +73,7 @@ A French version, translated by N. Pithou, was published not long after, and thi
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
@@ -84,7 +86,7 @@ This might demonstrate reliance on textual sources rather than personal observat
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 <h1>Amanda Cobbett</h1>
 Amanda Cobbett is an award-winning textile artist whose works champion the small and often overlooked treasures of the natural world, highlighting their place within our delicate ecosystem.
@@ -111,7 +113,7 @@ Focusing on the unique and intriguing case of lichens, the books and images disp
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)
 Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being an accomplished statesman, Bacon was a naturalist, but his Sylva sylvarum was published posthumously. It is a wide-ranging collection of extracts on natural history from books and manuscripts from other authors, as well as Bacon’s own scientific experiments and observations.
@@ -138,7 +140,7 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 <h1>Lichens for Health</h1>
 The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism.
@@ -151,7 +153,8 @@ The variant mixtures affected one’s physical and mental state. According to th
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9de030d9-4e1f-49d8-aa8e-9fb609df57a6"
-             label="A graphic depicting the humoral theory, courtesy of the Royal College of Physicians of Edinburgh">
+             label="A graphic depicting the humoral theory"
+              attribution="Courtesy of the Royal College of Physicians of Edinburgh">
 
 ## André du Laurens, De morbis melancholicis, & eorum cura tractatus (London, 1599)
 André du Laurens (1558-1609) was French physician to Henri IV. This work is divided into four discourses: vision, melancholy, catarrhs, and gerontology, and as such is an early work on the science of old age. It is also notable for its discussion of mental illness. In the humoural system, ‘Melancholy’ was believed to be caused by an excess of black bile.
@@ -162,7 +165,7 @@ Although du Laurens does not discuss lichens in this book, it is nonetheless an 
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)
 Jean Vigier (dates unknown) was a French physician who published a few medical tomes during his lifetime. In this work he discusses the use of various natural remedies for catarrh, including the use of agaricus, a type of fungus.
@@ -172,7 +175,7 @@ Although agaricus is not a lichen, the two have a symbiotic relationship: “lic
 [Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)
 Wilhelm Adolf Scribonius (1550-1600) was a philosopher, physician and teacher. This is the first English translation of his 1585 textbook entitled Rerum naturalium doctrina methodica. The book concerns the development of the natural sciences and contemplates the state of knowledge of the time.
@@ -184,7 +187,7 @@ This fungus has been revered as a medicine since ancient times, including by the
 [Caption; Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Dioscorides Pedanius of Anazarbos (translated by Jean Antoine Sarrasin), Opera quæ extant omnia (Frankfurt, 1598)
 Dioscorides (approximately 40-90 AD) was a Greek pharmacologist whose Περὶ ὕλης ἰατρικῆς (“On Medicinal Materials”) was the go-to pharmacology handbook in Europe and the Middle East for over 1500 years. It is the predecessor of all modern pharmacopoeias and was still referred to well into the eighteenth century.
@@ -208,7 +211,8 @@ This malady was probably an amalgam of modern skin conditions like impetigo, rin
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/c4ff9436-c3c6-484c-b684-86c571ec039b"
-             label="Pliny. Illustration courtesy of the Wellcome Library (7895i)"
+             label="Pliny"
+              attribution="Illustration courtesy of the Wellcome Library (7895i)"
               license="PD">
 
 ## Bartolomeo Paschetti, De destillatione catharro vulgò dicta. Libri tres. In quibus copiosissimè, & exactissimè de destillatione, fluxione, & catharro disputatur sequenti ordine (Venice, 1615)
@@ -219,7 +223,7 @@ As evidenced here, Paschetti relied heavily on other authorities for his text, i
 [De destillatione catharro vulgò dicta, digitised version from Universidad Complutense de Madrid](https://babel.hathitrust.org/cgi/pt?id=ucm.5327362224&seq=5)
 <param ve-image 
       url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph courtesy of George Miles ©">
+             label="Photograph by George Miles ©">
 
 ## Assessments of trees, Middle Temple estate: Letter from Dr. P. G. Biddle concerning the mulberry trees in Fountain Court and plan to accompany report from Southern Tree Surgeons, 1998 - Middle Temple Archive, MT/6/BPC/8
 As shown in the books on display, some types of tree fungus have long been prized as medicines. Certain fungi can damage their host, requiring stringent human intervention. Sometimes it is both: the Ganoderma fungus referred to by Dr P.G. Biddle’s report as threatening a laburnum in Fountain Court has also been used as a traditional medicine across Asia for centuries.
@@ -227,4 +231,5 @@ Nowadays a great deal of human effort is put into preserving, shaping, and prote
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/388706af-63af-4c2b-b787-f4a87ced3fdb"
-             label="Middle Temple Lane and Fountain Court, 1932. Middle Temple Archive MT/19/ILL/E/E8/10 ©">
+             label="Middle Temple Lane and Fountain Court, 1932"
+              attribution="Middle Temple Archive MT/19/ILL/E/E8/10 ©">
