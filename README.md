@@ -25,7 +25,7 @@ For more information about lichens in the UK, The British Lichen Society provide
 ## Encyclopædia metropolitana (London, 1845)
 This plate shows a variety of lichens. Despite the numbering of each, no further information as to their names is provided. Nonetheless, the variety that is presented is exquisite. The arrangement of the Encyclopaedia Metropolitana is divided into classes: pure sciences, mixed and applied sciences, biographical and historical information, miscellaneous and lexicographical information. It is based on conceptions of ‘method’ developed by Samuel Taylor Coleridge, whose introduction quotes Francis Bacon: “non simpliciter nil sciri posse; sed nil nisi certo ordine certâ viâ sciri posse” [not that absolutely nothing can be known, but that nothing can be known except in a definite order and by a definite method]. It contains articles by Sir John Herschel and Augustus de Morgan amongst others. Its non-alphabetical ordering (it is organised systematically and topically) can make it difficult to use for those who are used to the standard encyclopaedic form.
 <br><br>
-[Encyclopædia metropolitana (London, 1845)](https://www.sciencephoto.com/media/775818/view)
+[A plate from the Encyclopaedia Metropolitana depicting lichens ©](https://www.sciencephoto.com/media/775818/view)
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/c669a240-f6ce-4344-b03a-f9c80dea1712"
@@ -38,9 +38,8 @@ This 1757 article appeared in Philosophical Transactions, the flagship publicati
 [An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/7674a903-edd4-4f4e-886d-71cbf64db12e"
-             label="William Watson"
-             license="PD">
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 <h1>Lichens</h1>
 Lichens grow incredibly slowly and can be centuries old. They can live in exceptionally inhospitable environments - some lichens in the Arctic might be the oldest continuously living organisms on Earth.
@@ -51,6 +50,7 @@ According to the British Lichen Society, lichens can “colonize places where th
 <br><br>
 Lichens produce secondary substances known as lichen compounds. Many are waste products, but some also have other benefits to the lichen, including a bitter taste which may make the lichen unpalatable to grazing slugs and snails; protection against ultraviolet radiation; antibiotic properties.”
 <br><br>
+[A portrait of Martin Frobisher (approximately 1535-1594) ©](https://www.sciencephoto.com/media/151495/view)
 <param ve-image 
       url="https://github.com/user-attachments/assets/66a723e7-282a-4a2b-85af-c86687dc495c"
              label="A portrait of Martin Frobisher (approximately 1535-1594) ©">
@@ -70,10 +70,8 @@ A French version, translated by N. Pithou, was published not long after, and thi
 [Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/131cec1c-8be3-451c-91aa-388980b1ad8c"
-              label="Martin Frobisher by Cornelis Ketel (1577)"
-       source="https://commons.wikimedia.org/wiki/File:Martin_Frobisher_by_Cornelis_Ketel_(1577).png"
-             license="PD">
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
@@ -85,9 +83,8 @@ This might demonstrate reliance on textual sources rather than personal observat
 [Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/d36f5a03-13d7-402b-ad68-06efd7aae0d0"
-             label="Antoine Du Pinet, Historia plantarum, 1561, title page"
-              license="PD">
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 <h1>Amanda Cobbett</h1>
 Amanda Cobbett is an award-winning textile artist whose works champion the small and often overlooked treasures of the natural world, highlighting their place within our delicate ecosystem.
@@ -112,11 +109,14 @@ As the eighteenth-century Enlightenment proceeded, apocryphal information was in
 <br><br>
 Focusing on the unique and intriguing case of lichens, the books and images displayed in this exhibition reveal changing ideas about what it means to study nature and how people across the ages have perceived our relationship with it. They encourage us, like all true naturalists, to pay deeper consideration to and appreciation for all life forms, not least those that can hide away unnoticed.
 <br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)
 Sir Francis Bacon (1561-1626) was a member of Gray’s Inn. In addition to being an accomplished statesman, Bacon was a naturalist, but his Sylva sylvarum was published posthumously. It is a wide-ranging collection of extracts on natural history from books and manuscripts from other authors, as well as Bacon’s own scientific experiments and observations.
 <br><br>
-[Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627)](https://www.sciencephoto.com/media/92721/view)
+[Francis Bacon, Sylva Sylvarum: or a naturall historie (London, 1627) ©](https://www.sciencephoto.com/media/92721/view)
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/3d49b10d-7cd8-4367-be40-24d06a1fbab8"
@@ -137,9 +137,8 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
 [Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers, digitised version from Internet Archive](https://archive.org/details/bim_early-english-books-1641-1700_observations-upon-some-p_austen-ralph_1681/page/n1/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/eb34717b-0a91-4a5e-89c1-4c20ccd6628a"
-             label="Frontispiece of A Treatise on Fruit-trees (1653) by Ralph Austen"
-              license="PD">
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 <h1>Lichens for Health</h1>
 The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism.
@@ -162,9 +161,8 @@ Although du Laurens does not discuss lichens in this book, it is nonetheless an 
 [De morbis melancholicis, & eorum cura tractatus, digitised version from Marsh’s Library, Dublin](https://archive.org/details/bim_early-english-books-1475-1640_de-morbis-melancholicis-_du-laurnes-andr_1599)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/995b0da3-4660-46d1-ad11-976e6285d3a5"
-             label="André du Laurens"
-                           license="PD">
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)
 Jean Vigier (dates unknown) was a French physician who published a few medical tomes during his lifetime. In this work he discusses the use of various natural remedies for catarrh, including the use of agaricus, a type of fungus.
@@ -194,6 +192,8 @@ Dioscorides (approximately 40-90 AD) was a Greek pharmacologist whose Περὶ 
 The translation of Sarrasin (1547-1598) was widely reprinted during the seventeenth century. Some of the suggested remedies are genuinely effective, others not so much. Some are actively dangerous. For example, in this passage on burn treatments, lead compounds are proposed. A suggested treatment for wounds is to use “lichen growing upon stones, crushed and applied”. Modern chemistry has in fact discovered that many lichens produce compounds such as usnic acid, atranorin and other phenolics which have genuine antimicrobial qualities.
 <br><br>
 Nevertheless, cuts would be better served by modern antiseptics than sprinkled rock lichen.
+<br><br>
+[Portrait of Dioscorides Pedanius of Anazarbos ©](https://www.sciencephoto.com/media/469005/view)
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/ba285193-8282-4ad6-aa19-a43c0493431c"
