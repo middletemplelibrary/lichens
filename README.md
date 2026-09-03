@@ -1,10 +1,10 @@
 <param ve-config 
-       banner="https://github.com/user-attachments/assets/8b9c6b59-350e-499d-8b96-a162afa0a6e9"
+       banner="https://github.com/user-attachments/assets/e0bdf2b1-0b9c-467a-ae2b-dcf5c57b6d4c"
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="6912" height="3000" alt="Test (300 x 150 px) (1)" src="https://github.com/user-attachments/assets/8b9c6b59-350e-499d-8b96-a162afa0a6e9" />
+<img width="6912" height="3000" alt="Test (300 x 150 px) (2)" src="https://github.com/user-attachments/assets/e0bdf2b1-0b9c-467a-ae2b-dcf5c57b6d4c" />
 
 
 <h1>Lichens and Middle Temple</h1>
