@@ -1,9 +1,7 @@
-<img width="960" height="1419" alt="A_Treatise_of_Fruit_Trees_Austen" src="https://github.com/user-attachments/assets/d2359a7d-e4cf-4231-b19c-a4fa0b55a8f9" />
 <param ve-config 
        banner="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c"
        layout="vertical">
 
-##
 
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
