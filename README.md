@@ -3,6 +3,10 @@
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
+##
+<img width="1000" height="800" alt="_DSC0787" src="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c" />
+
+
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
@@ -172,6 +176,9 @@ Jean Vigier (dates unknown) was a French physician who published a few medical t
 Although agaricus is not a lichen, the two have a symbiotic relationship: “lichen is a stable symbiotic association between a fungus and algae and/or cyanobacteria”, and many “unrelated and very different fungi form lichens, including mushroom-forming fungi, and especially cup-fungi.”
 <br><br>
 [Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)
 Wilhelm Adolf Scribonius (1550-1600) was a philosopher, physician and teacher. This is the first English translation of his 1585 textbook entitled Rerum naturalium doctrina methodica. The book concerns the development of the natural sciences and contemplates the state of knowledge of the time.
@@ -181,6 +188,9 @@ Scribonius adhered to the approach of the French humanist Peter Ramus (1515-1572
 This fungus has been revered as a medicine since ancient times, including by the ancient physician Dioscorides whose pharmacopoeias and medical texts greatly informed the medieval medical tradition. Even to this day it is subject to scientific and clinical research.
 <br><br>
 [Caption; Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Dioscorides Pedanius of Anazarbos (translated by Jean Antoine Sarrasin), Opera quæ extant omnia (Frankfurt, 1598)
 Dioscorides (approximately 40-90 AD) was a Greek pharmacologist whose Περὶ ὕλης ἰατρικῆς (“On Medicinal Materials”) was the go-to pharmacology handbook in Europe and the Middle East for over 1500 years. It is the predecessor of all modern pharmacopoeias and was still referred to well into the eighteenth century.
@@ -211,6 +221,9 @@ Bartolomeo Paschetti (active 1578-1616) was a physician from Verona. He studied 
 As evidenced here, Paschetti relied heavily on other authorities for his text, including Luis Mercado (1520-1606) and Joannes Baptista Montanus (1498-1551). His book discusses their remedies, which included the use of agaricus in a herbal mixture that contained chamomile, and lye.
 <br><br>
 [De destillatione catharro vulgò dicta, digitised version from Universidad Complutense de Madrid](https://babel.hathitrust.org/cgi/pt?id=ucm.5327362224&seq=5)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
+             label="Photograph courtesy of George Miles ©">
 
 ## Assessments of trees, Middle Temple estate: Letter from Dr. P. G. Biddle concerning the mulberry trees in Fountain Court and plan to accompany report from Southern Tree Surgeons, 1998 - Middle Temple Archive, MT/6/BPC/8
 As shown in the books on display, some types of tree fungus have long been prized as medicines. Certain fungi can damage their host, requiring stringent human intervention. Sometimes it is both: the Ganoderma fungus referred to by Dr P.G. Biddle’s report as threatening a laburnum in Fountain Court has also been used as a traditional medicine across Asia for centuries.
