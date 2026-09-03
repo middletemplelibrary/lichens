@@ -61,8 +61,8 @@ The two elegant cotoneaster trees in Pump Court were planted in approximately 19
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/a39d55dd-44c2-448c-9fea-2578e19f4e34"
-             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple"
-              attribution="Renae Satterley, June 2026 ©">
+             label="A photograph of two cotoneaster trees in Pump Court, Middle Temple ©"
+              attribution="Renae Satterley, June 2026">
 
 ## Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)
 Sir Martin Frobisher (1535-1594) was admitted to the Inn on 2 February 1592/3, most likely as an honorary member, which was very common during the early modern period. Little is known about Dionyse Settle, apart from the fact that he published the first account of Frobisher’s second voyage to the Arctic, which was first published in 1577 in English.
