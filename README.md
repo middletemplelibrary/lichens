@@ -3,11 +3,6 @@
        banner="https://github.com/user-attachments/assets/d0b53fc7-94b8-405f-97be-c59d6b378f8c"
        layout="vertical">
 
-##
-<img width="1244" height="732" alt="Fountain Court" src="https://github.com/user-attachments/assets/388706af-63af-4c2b-b787-f4a87ced3fdb" />
-
-
-
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
