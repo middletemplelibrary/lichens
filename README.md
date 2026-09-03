@@ -3,10 +3,6 @@
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
-##
-<img width="1000" height="800" alt="_DSC0787" src="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c" />
-
-
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
