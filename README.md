@@ -4,10 +4,7 @@
        layout="vertical">
 
 ##
-<img width="573" height="800" alt="Dioscorides" src="https://github.com/user-attachments/assets/ba285193-8282-4ad6-aa19-a43c0493431c" />
-
-
-
+<img width="400" height="696" alt="Pliny" src="https://github.com/user-attachments/assets/c4ff9436-c3c6-484c-b684-86c571ec039b" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -206,4 +203,20 @@ Pliny wrote the only encyclopaedia to survive from ancient Rome. It was written 
 It was a principal scientific reference work well into early modernity and is an ancestor of editorial models still with us today. These pages are an example of Pliny’s approach, combining firsthand observations with second or third hand accounts and even out-and-out myths. Unsurprisingly, many of the cures are spurious. Here, among a list of other medicines, rock lichens as well as “the herb called lichen... [which] grows on rocky ground” (possibly liverwort) are prescribed for a skin disease, itself called “lichen”.
 <br><br>
 This malady was probably an amalgam of modern skin conditions like impetigo, ringworm and eczema. According to ancient understanding, likeness in appearance could indicate the treatment’s efficacy; hence this dubious remedy. Pliny famously died whilst trying to observe the eruption of Mount Vesuvius in 79 CE.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c4ff9436-c3c6-484c-b684-86c571ec039b"
+             label="Pliny. Illustration courtesy of the Wellcome Library (7895i)"
+              license="PD">
+
+## Bartolomeo Paschetti, De destillatione catharro vulgò dicta. Libri tres. In quibus copiosissimè, & exactissimè de destillatione, fluxione, & catharro disputatur sequenti ordine (Venice, 1615)
+Bartolomeo Paschetti (active 1578-1616) was a physician from Verona. He studied a the famous school of medicine in Padua and worked in Genoa. In this work he discusses ‘catarrh’, which caused discharge from the nose and eyes. Although during the early modern period, the word ‘catarrh’ had a broader meaning, and could include the common cold, rhinitis and sinusitis.
+<br><br>
+As evidenced here, Paschetti relied heavily on other authorities for his text, including Luis Mercado (1520-1606) and Joannes Baptista Montanus (1498-1551). His book discusses their remedies, which included the use of agaricus in a herbal mixture that contained chamomile, and lye.
+<br><br>
+[De destillatione catharro vulgò dicta, digitised version from Universidad Complutense de Madrid](https://babel.hathitrust.org/cgi/pt?id=ucm.5327362224&seq=5)
+
+## Assessments of trees, Middle Temple estate: Letter from Dr. P. G. Biddle concerning the mulberry trees in Fountain Court and plan to accompany report from Southern Tree Surgeons, 1998 - Middle Temple Archive, MT/6/BPC/8
+As shown in the books on display, some types of tree fungus have long been prized as medicines. Certain fungi can damage their host, requiring stringent human intervention. Sometimes it is both: the Ganoderma fungus referred to by Dr P.G. Biddle’s report as threatening a laburnum in Fountain Court has also been used as a traditional medicine across Asia for centuries.
+Nowadays a great deal of human effort is put into preserving, shaping, and protecting trees (as well as their mass felling of course). Opinions over time have diverged sharply as to what this means in practice. In 1998, Dr. Biddle was commissioned to review a query from the Inn about whether the mulberry trees in Fountain Court were a nuisance to be removed. This was sharply debated in the late 1990s ahead of the Inn’s Millenium Project. During this project, Fountain Court was resurfaced and other changes were made to the area. Some felt the mulberry trees were an “oppressive” and ungainly obstruction, while others (who won out in the end) fondly appreciated their crooked charms. 
 <br><br>
