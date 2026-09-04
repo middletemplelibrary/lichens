@@ -4,8 +4,7 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="863" height="801" alt="image (2)" src="https://github.com/user-attachments/assets/a33f63ea-c7cc-4b6a-a0dc-36c73cba905f" />
-
+<img width="1018" height="798" alt="image (3)" src="https://github.com/user-attachments/assets/bc5e99e7-eaeb-42c3-b765-8701fa72e2fc" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -77,8 +76,8 @@ A French version, translated by N. Pithou, was published not long after, and thi
 [Digital copy of De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica, digitised copy from John Carter Brown Library, Providence Rhode Island](https://archive.org/details/demartiniforbiss00sett/page/n5/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/bc5e99e7-eaeb-42c3-b765-8701fa72e2fc"
+               license="PD">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
 Antoine du Pinet (approximately 1510-1584) was a compiler and translator of botanical works. As shown here, this book brings together plant illustrations, names, characteristics and medicinal properties. The references in the margin indicate the ancient Greek physicians Dioscorides and Galen as source materials.
