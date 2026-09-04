@@ -4,7 +4,8 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="1000" height="806" alt="image (4)" src="https://github.com/user-attachments/assets/2fa101df-89ee-47b3-a3a4-3507707bd690" />
+<img width="547" height="768" alt="image (5)" src="https://github.com/user-attachments/assets/40dff505-c061-48b1-b8f8-e7df6cf828cf" />
+
 
 
 
@@ -144,8 +145,8 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
 [Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers, digitised version from Internet Archive](https://archive.org/details/bim_early-english-books-1641-1700_observations-upon-some-p_austen-ralph_1681/page/n1/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/40dff505-c061-48b1-b8f8-e7df6cf828cf"
+               license="PD">
 
 <h1>Lichens for Health</h1>
 The Greek physician and pharmacologist Pedanius Dioscorides (approximately 40AD – 90AD) described how lichen cultivated from rocks can be used to stem bleeding, reduce inflammation and heal impetigo. He stated that they could be mixed with honey to treat jaundice and used to treat mouth and tongue rheumatism.
