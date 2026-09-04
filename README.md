@@ -40,6 +40,7 @@ This 1757 article appeared in Philosophical Transactions, the flagship publicati
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/a33f63ea-c7cc-4b6a-a0dc-36c73cba905f"
+              label="William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)"
               license="PD">
 
 <h1>Lichens</h1>
@@ -73,6 +74,7 @@ A French version, translated by N. Pithou, was published not long after, and thi
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/bc5e99e7-eaeb-42c3-b765-8701fa72e2fc"
+                    label="Dionyse Settle, De Martini Forbisseri Angli navigatione in regiones occidentis et septentrionis narratio historica (Nuremberg, 1580)"
                license="PD">
 
 ## Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)
@@ -86,6 +88,7 @@ This might demonstrate reliance on textual sources rather than personal observat
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/2fa101df-89ee-47b3-a3a4-3507707bd690"
+                           label="Antoine du Pinet, Historia plantarum: Earum imagines, nomenclatura, qualitates, & natale solum. Accessere simpliciu[m] medicamentorum facultates, secundum locos, & genera ex Dioscoride (Lyon, 1567)"
                license="PD">
 
 <h1>Amanda Cobbett</h1>
@@ -140,6 +143,7 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/abd186fd-7c7a-4c43-be35-c3c6a1a90978"
+                    label="Ralph Austen, Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers (Oxford, 1658)"
                license="PD">
 
 <h1>Lichens for Health</h1>
@@ -165,6 +169,7 @@ Although du Laurens does not discuss lichens in this book, it is nonetheless an 
 <br><br>
 <param ve-image 
       url="https://github.com/user-attachments/assets/6ca9386f-aca2-4bcf-80e8-9bebf42d3b96"
+                    label="André du Laurens, De morbis melancholicis, & eorum cura tractatus (London, 1599)"
                license="PD">
 
 ## Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)
@@ -175,6 +180,7 @@ Although agaricus is not a lichen, the two have a symbiotic relationship: “lic
 [Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/5c7b3774-e8a9-433e-90e4-6eccb96e32e4"
+                       label="Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)"
                license="PD">
 
 ## Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)
@@ -187,6 +193,7 @@ This fungus has been revered as a medicine since ancient times, including by the
 [Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/bd1c9b68-fac2-44ea-8eee-e80655ef995e"
+                           label="Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)"
                license="PD">
 
 ## Dioscorides Pedanius of Anazarbos (translated by Jean Antoine Sarrasin), Opera quæ extant omnia (Frankfurt, 1598)
@@ -223,6 +230,7 @@ As evidenced here, Paschetti relied heavily on other authorities for his text, i
 [De destillatione catharro vulgò dicta, digitised version from Universidad Complutense de Madrid](https://babel.hathitrust.org/cgi/pt?id=ucm.5327362224&seq=5)
 <param ve-image 
       url="https://github.com/user-attachments/assets/343acc22-041f-4ceb-a646-f6df9108cc92"
+              label="Bartolomeo Paschetti, De destillatione catharro vulgò dicta. Libri tres. In quibus copiosissimè, & exactissimè de destillatione, fluxione, & catharro disputatur sequenti ordine (Venice, 1615)"
               license="PD">
 
 ## Assessments of trees, Middle Temple estate: Letter from Dr. P. G. Biddle concerning the mulberry trees in Fountain Court and plan to accompany report from Southern Tree Surgeons, 1998 - Middle Temple Archive, MT/6/BPC/8
