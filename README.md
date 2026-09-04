@@ -4,7 +4,8 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="1018" height="798" alt="image (3)" src="https://github.com/user-attachments/assets/bc5e99e7-eaeb-42c3-b765-8701fa72e2fc" />
+<img width="1000" height="806" alt="image (4)" src="https://github.com/user-attachments/assets/2fa101df-89ee-47b3-a3a4-3507707bd690" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -89,8 +90,8 @@ This might demonstrate reliance on textual sources rather than personal observat
 [Historia plantarum, digitised copy from the Bayerische Staatsbibliothek, Munich](https://archive.org/details/bub_gb_OTM6AAAAcAAJ/page/n3/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/2fa101df-89ee-47b3-a3a4-3507707bd690"
+               license="PD">
 
 <h1>Amanda Cobbett</h1>
 Amanda Cobbett is an award-winning textile artist whose works champion the small and often overlooked treasures of the natural world, highlighting their place within our delicate ecosystem.
