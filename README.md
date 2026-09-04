@@ -3,10 +3,6 @@
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
-##
-<img width="1743" height="2444" alt="ucm 5327362224-seq_5" src="https://github.com/user-attachments/assets/343acc22-041f-4ceb-a646-f6df9108cc92" />
-
-
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
@@ -188,7 +184,7 @@ Scribonius adhered to the approach of the French humanist Peter Ramus (1515-1572
 <br><br>
 This fungus has been revered as a medicine since ancient times, including by the ancient physician Dioscorides whose pharmacopoeias and medical texts greatly informed the medieval medical tradition. Even to this day it is subject to scientific and clinical research.
 <br><br>
-[Caption; Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
+[Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
 <param ve-image 
       url="https://github.com/user-attachments/assets/bd1c9b68-fac2-44ea-8eee-e80655ef995e"
                license="PD">
