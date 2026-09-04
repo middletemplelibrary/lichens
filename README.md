@@ -4,8 +4,7 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="570" height="736" alt="image (11)" src="https://github.com/user-attachments/assets/bd1c9b68-fac2-44ea-8eee-e80655ef995e" />
-
+<img width="1743" height="2444" alt="ucm 5327362224-seq_5" src="https://github.com/user-attachments/assets/343acc22-041f-4ceb-a646-f6df9108cc92" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -227,8 +226,8 @@ As evidenced here, Paschetti relied heavily on other authorities for his text, i
 <br><br>
 [De destillatione catharro vulgò dicta, digitised version from Universidad Complutense de Madrid](https://babel.hathitrust.org/cgi/pt?id=ucm.5327362224&seq=5)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/343acc22-041f-4ceb-a646-f6df9108cc92"
+              license="PD">
 
 ## Assessments of trees, Middle Temple estate: Letter from Dr. P. G. Biddle concerning the mulberry trees in Fountain Court and plan to accompany report from Southern Tree Surgeons, 1998 - Middle Temple Archive, MT/6/BPC/8
 As shown in the books on display, some types of tree fungus have long been prized as medicines. Certain fungi can damage their host, requiring stringent human intervention. Sometimes it is both: the Ganoderma fungus referred to by Dr P.G. Biddle’s report as threatening a laburnum in Fountain Court has also been used as a traditional medicine across Asia for centuries.
