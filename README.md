@@ -3,6 +3,10 @@
        layout="vertical"
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
+##
+<img width="1000" height="806" alt="image" src="https://github.com/user-attachments/assets/fe8cb5b5-c4d1-4dcb-8d37-e79894732134" />
+
+
 <h1>Lichens and Middle Temple</h1>
 This exhibition examines the somewhat obscure topic of lichens: their role in the natural world, and surprising presence at Middle Temple. It features unique artworks by Amanda Cobbett and was co-curated by Gabriel Dorey, Kate Jenrick, and Renae Satterley. 
 <br><br>
@@ -36,11 +40,11 @@ This plate shows a variety of lichens. Despite the numbering of each, no further
 ## William Watson, An historical memoir concerning a genus of plants called lichen (London, 1757)
 This 1757 article appeared in Philosophical Transactions, the flagship publication of the Royal Society (founded 1660) and the world’s first and longest-running scientific journal. This passage offers insight into an earlier era of the scientific method where ancient quackery was being reevaluated in favour of more recognisably modern intellectual rigour. The article adopts the traditional view that nature’s ultimate purpose is to service the needs of humankind. It idealistically invokes knowledge for its own sake (even “the most abject and insignificant things”) and presages future discoveries of use to humanity. Nowadays, lichens are subject to research concerning pharmaceuticals, air-quality monitoring, agriculture, and even space biology.
 <br><br>
-[An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1757.0092/119361/XCI-An-historical-memoir-concerning-a-genus-of)
+[An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article-pdf/doi/10.1098/rstl.1757.0092/1457528/rstl.1757.0092.pdf)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/fe8cb5b5-c4d1-4dcb-8d37-e79894732134"
+              license="PD">
 
 <h1>Lichens</h1>
 Lichens grow incredibly slowly and can be centuries old. They can live in exceptionally inhospitable environments - some lichens in the Arctic might be the oldest continuously living organisms on Earth.
