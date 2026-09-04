@@ -4,8 +4,7 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="547" height="768" alt="image (8)" src="https://github.com/user-attachments/assets/abd186fd-7c7a-4c43-be35-c3c6a1a90978" />
-
+<img width="491" height="751" alt="image (10)" src="https://github.com/user-attachments/assets/5c7b3774-e8a9-433e-90e4-6eccb96e32e4" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -179,8 +178,8 @@ Although agaricus is not a lichen, the two have a symbiotic relationship: “lic
 <br><br>
 [Tractatus absolutissimus et accuratissimus de catarrho, digitised version from Wellcome Library, London](https://archive.org/details/b3298943x/page/n9/mode/2up)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/5c7b3774-e8a9-433e-90e4-6eccb96e32e4"
+               license="PD">
 
 ## Wilhelm Adolf Scribonius (translated by Daniel Widdowes), Naturall philosophy: or A description of the world, and of the severall creatures therein contained (London, 1631)
 Wilhelm Adolf Scribonius (1550-1600) was a philosopher, physician and teacher. This is the first English translation of his 1585 textbook entitled Rerum naturalium doctrina methodica. The book concerns the development of the natural sciences and contemplates the state of knowledge of the time.
