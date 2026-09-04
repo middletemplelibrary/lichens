@@ -4,7 +4,8 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="1000" height="806" alt="image" src="https://github.com/user-attachments/assets/fe8cb5b5-c4d1-4dcb-8d37-e79894732134" />
+<img width="863" height="801" alt="image (2)" src="https://github.com/user-attachments/assets/a33f63ea-c7cc-4b6a-a0dc-36c73cba905f" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -43,7 +44,7 @@ This 1757 article appeared in Philosophical Transactions, the flagship publicati
 [An historical memoir concerning a genus of plants called lichen (London, 1757)](https://royalsocietypublishing.org/rstl/article-pdf/doi/10.1098/rstl.1757.0092/1457528/rstl.1757.0092.pdf)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/fe8cb5b5-c4d1-4dcb-8d37-e79894732134"
+      url="https://github.com/user-attachments/assets/a33f63ea-c7cc-4b6a-a0dc-36c73cba905f"
               license="PD">
 
 <h1>Lichens</h1>
