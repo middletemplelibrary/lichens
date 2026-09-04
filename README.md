@@ -4,7 +4,8 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="491" height="751" alt="image (10)" src="https://github.com/user-attachments/assets/5c7b3774-e8a9-433e-90e4-6eccb96e32e4" />
+<img width="570" height="736" alt="image (11)" src="https://github.com/user-attachments/assets/bd1c9b68-fac2-44ea-8eee-e80655ef995e" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -190,8 +191,8 @@ This fungus has been revered as a medicine since ancient times, including by the
 <br><br>
 [Caption; Naturall philosophy, digitised copy from Wellcome Library, London](https://archive.org/details/b30337483/page/n7/mode/2up)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/bd1c9b68-fac2-44ea-8eee-e80655ef995e"
+               license="PD">
 
 ## Dioscorides Pedanius of Anazarbos (translated by Jean Antoine Sarrasin), Opera quæ extant omnia (Frankfurt, 1598)
 Dioscorides (approximately 40-90 AD) was a Greek pharmacologist whose Περὶ ὕλης ἰατρικῆς (“On Medicinal Materials”) was the go-to pharmacology handbook in Europe and the Middle East for over 1500 years. It is the predecessor of all modern pharmacopoeias and was still referred to well into the eighteenth century.
