@@ -4,9 +4,7 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="547" height="768" alt="image (5)" src="https://github.com/user-attachments/assets/40dff505-c061-48b1-b8f8-e7df6cf828cf" />
-
-
+<img width="1005" height="725" alt="image (6)" src="https://github.com/user-attachments/assets/6ca9386f-aca2-4bcf-80e8-9bebf42d3b96" />
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -170,8 +168,8 @@ Although du Laurens does not discuss lichens in this book, it is nonetheless an 
 [De morbis melancholicis, & eorum cura tractatus, digitised version from Marsh’s Library, Dublin](https://archive.org/details/bim_early-english-books-1475-1640_de-morbis-melancholicis-_du-laurnes-andr_1599)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9f8e4005-b2e9-498c-a31b-0739f5c3598c"
-             label="Photograph by George Miles ©">
+      url="https://github.com/user-attachments/assets/6ca9386f-aca2-4bcf-80e8-9bebf42d3b96"
+               license="PD">
 
 ## Jean Vigier, Tractatus absolutissimus et accuratissimus de catarrho, rheumatismo, vitiis dentium, linguae, vocis, de immodica et indecora salivatione, et aliis a cerebro destillationibus, de variis authoribus compilatus (Geneva, 1620)
 Jean Vigier (dates unknown) was a French physician who published a few medical tomes during his lifetime. In this work he discusses the use of various natural remedies for catarrh, including the use of agaricus, a type of fungus.
