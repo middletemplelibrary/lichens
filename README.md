@@ -4,7 +4,8 @@
        label="Photograph of lichens found on a tree in the Middle Temple Estate by Kate Jenrick April 2026 ©">
 
 ##
-<img width="1005" height="725" alt="image (6)" src="https://github.com/user-attachments/assets/6ca9386f-aca2-4bcf-80e8-9bebf42d3b96" />
+<img width="547" height="768" alt="image (8)" src="https://github.com/user-attachments/assets/abd186fd-7c7a-4c43-be35-c3c6a1a90978" />
+
 
 
 <h1>Lichens and Middle Temple</h1>
@@ -143,7 +144,7 @@ The Dictionary of National Biography describes Ralph Austen (circa 1612-1676) as
 [Observations upon some part of Sr Francis Bacon's naturall history as it concernes, fruit-trees, fruits, and flowers, digitised version from Internet Archive](https://archive.org/details/bim_early-english-books-1641-1700_observations-upon-some-p_austen-ralph_1681/page/n1/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/40dff505-c061-48b1-b8f8-e7df6cf828cf"
+      url="https://github.com/user-attachments/assets/abd186fd-7c7a-4c43-be35-c3c6a1a90978"
                license="PD">
 
 <h1>Lichens for Health</h1>
