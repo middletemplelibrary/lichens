@@ -105,6 +105,14 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
              label="A photograph of the artist Amanda Cobbett ©"
              attribution="Andrew Montgomery">
 
+## Amanda Cobbett - Embroidered Nature
+This film shows Amanda Cobbett embroidering hyper-realistic lichen.
+<br><br>
+  <param ve-video id="H4JQqGvY5l4"
+       label="Amanda Cobbett - Embroidered Nature."
+          attribution="Film by Richard Lewishon"
+         attribution="Music: Walking In Forests - Ben Winwood">
+
 <h1>Humanity and the Natural World</h1>
 For millennia, using description and classification, people have sought to understand the natural world with its countless flora and fauna.
 <br><br>
