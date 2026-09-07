@@ -108,7 +108,7 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
 ## Amanda Cobbett - Embroidered Nature
 This film shows Amanda Cobbett embroidering hyper-realistic lichen.
 <br><br>
-“I like to think that my pieces could trick the eye into thinking that what you are seeing might be real. I am also passionate about highlighting and preserving specimens from the forest that could, without care, become red-listed. If we are not aware that they exist, how will we know when they have disappeared? By creating an embroidered sculpture of a natural object and displaying it in a case in a gallery, it brings our natural world into another dimension – we then might look for that specimen in nature, and care about its existence. - Amanda Cobbett [source](https://www.amandacobbett.com/copy-of-artist-biography#:~:text=%E2%80%9CI%20like%20to,about%20its%20existence.%E2%80%9D)”
+“I like to think that my pieces could trick the eye into thinking that what you are seeing might be real. I am also passionate about highlighting and preserving specimens from the forest that could, without care, become red-listed. If we are not aware that they exist, how will we know when they have disappeared? By creating an embroidered sculpture of a natural object and displaying it in a case in a gallery, it brings our natural world into another dimension – we then might look for that specimen in nature, and care about its existence. - Amanda Cobbett [(source)](https://www.amandacobbett.com/copy-of-artist-biography#:~:text=%E2%80%9CI%20like%20to,about%20its%20existence.%E2%80%9D)”
 <br><br>
   <param ve-video id="H4JQqGvY5l4"
        label="Amanda Cobbett - Embroidered Nature."
