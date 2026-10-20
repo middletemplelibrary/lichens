@@ -106,6 +106,7 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
              attribution="Andrew Montgomery">
 
 ## Four embroidered pieces by Amanda Cobbett
+These images show a selection of the embroidered lichen by Amanda Cobbett, based on real examples found in various locations, ranging from London to Surrey Hills.
 <param ve-image 
       url="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374"
              label="Pine bolete mushroom (boletus pinophilus), based on a mushroom found in Surrey Hills"
