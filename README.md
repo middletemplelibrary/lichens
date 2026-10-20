@@ -105,6 +105,17 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
              label="A photograph of the artist Amanda Cobbett ©"
              attribution="Andrew Montgomery">
 
+## Four embroidered pieces by Amanda Cobbett
+<param ve-image 
+      url="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374"
+             label="Pine bolete mushroom (boletus pinophilus), based on a mushroom found in Surrey Hills"
+             attribution="Photography by James ">
+
+##
+<img width="2048" height="1495" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374" />
+
+
+
 ## Amanda Cobbett - Embroidered Nature
 This film shows Amanda Cobbett embroidering hyper-realistic lichen.
 <br><br>
