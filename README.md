@@ -123,11 +123,6 @@ These images show a selection of the embroidered lichen by Amanda Cobbett, based
       url="https://github.com/user-attachments/assets/cfc4e461-063b-4e53-87ca-aa02c54af730"
              label="Lecanora sp.? (x4 magnified), based on lichen found in Middle Temple Gardens"
              attribution="Photography by James Nicholls">
-             
-##
-<img width="2048" height="1781" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/cfc4e461-063b-4e53-87ca-aa02c54af730" />
-
-
 
 ## Amanda Cobbett - Embroidered Nature
 This film shows Amanda Cobbett embroidering hyper-realistic lichen.
