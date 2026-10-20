@@ -115,9 +115,15 @@ These images show a selection of the embroidered lichen by Amanda Cobbett, based
       url="https://github.com/user-attachments/assets/7ebad3db-33cf-42a6-965e-6c15d7fce02a"
              label="Candelariella aurella or egg yolk lichen (x4 magnified), based on lichen found in Middle Temple Gardens"
              attribution="Photography by James Nicholls">
-
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b8f9638f-74c7-4c29-889a-532f01499516"
+             label="Rinodina genarii (x4 magnified), based on lichen found in Middle Temple Gardens"
+             attribution="Photography by James Nicholls">
+             
 ##
-<img width="2048" height="2032" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/7ebad3db-33cf-42a6-965e-6c15d7fce02a" />
+<img width="2048" height="1872" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/b8f9638f-74c7-4c29-889a-532f01499516" />
+
+
 
 
 
