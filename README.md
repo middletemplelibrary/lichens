@@ -106,7 +106,7 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
              attribution="Andrew Montgomery">
 
 ## Four embroidered pieces by Amanda Cobbett
-These images show a selection of the embroidered lichen by Amanda Cobbett, based on real examples found in various locations, ranging from Middle Temple Garden to Surrey Hills.
+These images show a selection of the embroidered lichen by Amanda Cobbett, based on real examples found in various locations.
 <param ve-image 
       url="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374"
              label="Pine bolete mushroom (boletus pinophilus), based on a mushroom found in Surrey Hills"
@@ -119,11 +119,13 @@ These images show a selection of the embroidered lichen by Amanda Cobbett, based
       url="https://github.com/user-attachments/assets/b8f9638f-74c7-4c29-889a-532f01499516"
              label="Rinodina genarii (x4 magnified), based on lichen found in Middle Temple Gardens"
              attribution="Photography by James Nicholls">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/cfc4e461-063b-4e53-87ca-aa02c54af730"
+             label="Lecanora sp.? (x4 magnified), based on lichen found in Middle Temple Gardens"
+             attribution="Photography by James Nicholls">
              
 ##
-<img width="2048" height="1872" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/b8f9638f-74c7-4c29-889a-532f01499516" />
-
-
+<img width="2048" height="1781" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/cfc4e461-063b-4e53-87ca-aa02c54af730" />
 
 
 
