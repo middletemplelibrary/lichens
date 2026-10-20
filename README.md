@@ -106,16 +106,21 @@ To learn more about Amanda and see her work, please visit [www.amandacobbett.com
              attribution="Andrew Montgomery">
 
 ## Four embroidered pieces by Amanda Cobbett
-These images show a selection of the embroidered lichen by Amanda Cobbett, based on real examples found in various locations, ranging from London to Surrey Hills.
+These images show a selection of the embroidered lichen by Amanda Cobbett, based on real examples found in various locations, ranging from Middle Temple Garden to Surrey Hills.
 <param ve-image 
       url="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374"
              label="Pine bolete mushroom (boletus pinophilus), based on a mushroom found in Surrey Hills"
-             attribution="Photography by James ">
+             attribution="Photography by James Nicholls">
 <param ve-image 
-      url="https://github.com/user-attachments/assets/3e235cb2-0639-45b8-903a-8cab9ded9374"
-             label="Pine bolete mushroom (boletus pinophilus), based on a mushroom found in Surrey Hills"
-             attribution="Photography by James ">
-             
+      url="https://github.com/user-attachments/assets/7ebad3db-33cf-42a6-965e-6c15d7fce02a"
+             label="Candelariella aurella or egg yolk lichen (x4 magnified), based on lichen found in Middle Temple Gardens"
+             attribution="Photography by James Nicholls">
+
+##
+<img width="2048" height="2032" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/7ebad3db-33cf-42a6-965e-6c15d7fce02a" />
+
+
+
 ## Amanda Cobbett - Embroidered Nature
 This film shows Amanda Cobbett embroidering hyper-realistic lichen.
 <br><br>
